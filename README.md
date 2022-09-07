@@ -5,9 +5,9 @@ Just a list of resources I found for learning programming/cs
 Below is the Programmer's track. This should take about 6 months to a year. It's mostly focused on practicum:
 
 ### Math
-* [Pre-Algebra](www.khanacademy.com)
-* [Algebra I](www.khanacademy.com)
-* [Algebra II](www.khanacademy.com)
+* [Pre-Algebra](www.khanacademy.org)
+* [Algebra I](www.khanacademy.org)
+* [Algebra II](www.khanacademy.org)
 * [Discrete Mathmatics](https://www.youtube.com/watch?v=A3Ffwsnad0k&list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
 
 ### Theory
