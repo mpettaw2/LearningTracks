@@ -18,13 +18,13 @@ Technically the courses below are Java programming courses but you will have to 
 [Intermediate Java](https://www.codecademy.com/learn/learn-intermediate-java)
 
 
-DS&A
-[Engineering Thinking](https://www.edx.org/cs50)
-[Engineering Thinking](https://www.edx.org/cs50)
-Data Structures and Algorithims I https://www.coursera.org/learn/algorithms-part1
-Data Structures and Algorithims II https://www.coursera.org/learn/algorithms-part2
+#### DS&A
+[Data Structures and Algorithims I](https://www.coursera.org/learn/algorithms-part1)
+[Data Structures and Algorithims II](https://www.coursera.org/learn/algorithms-part2)
+ 
+ 
 
-At this point you can practice on https://leetcode.com/ or https://www.topcoder.com. There are many other websites where you can practice.
+At this point you can practice on [leetcode](https://leetcode.com/) or [topcoder](https://www.topcoder.com). There are many other websites where you can practice.
 
 ### Programming Languages
 Everyone should know git https://git-scm.com/
