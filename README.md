@@ -1,16 +1,16 @@
 # Learning Tracks
 Just a list of resources I found for learning programming/cs
 
-##Programmer
+## Programmer
 Below is the Programmer's track. This should take about 6 months to a year. It's mostly focused on practicum:
 
-###Math
+### Math
 [Pre-Algebra](www.khanacademy.com)
 [Algebra I](www.khanacademy.com)
 [Algebra II](www.khanacademy.com)
 [Discrete Mathmatics](https://www.youtube.com/watch?v=A3Ffwsnad0k&list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
 
-###Theory
+### Theory
 [Engineering Thinking](https://www.edx.org/cs50)
 
 Technically the courses below are Java programming courses but you will have to know this to do DS&A
@@ -26,7 +26,7 @@ Data Structures and Algorithims II https://www.coursera.org/learn/algorithms-par
 
 At this point you can practice on https://leetcode.com/ or https://www.topcoder.com. There are many other websites where you can practice.
 
-###Programming Languages
+### Programming Languages
 Everyone should know git https://git-scm.com/
 
 Backend Languages:
