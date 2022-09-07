@@ -24,20 +24,22 @@ Technically the courses below are Java programming courses but you will have to 
  
  
 
-At this point you can practice on [leetcode](https://leetcode.com/) or [topcoder](https://www.topcoder.com). There are many other websites where you can practice.
+At this point you can practice on [leetcode](https://leetcode.com/) or [topcoder](https://www.topcoder.com). There are many other websites where you can practice on.
 
 ### Programming Languages
 * Everyone should know [git](https://git-scm.com/)
 
 #### Backend Languages:
-* Python https://www.codecademy.com/learn/learn-python (upgrade for python 3)
-* mySql https://www.codecademy.com/learn/learn-sql
-* php https://www.codecademy.com/learn/learn-php
-* node.js https://www.freecodecamp.org/
-* bash (linux) https://www.datacamp.com 
+* [Python](https://www.codecademy.com/learn/learn-python) (upgrade for python 3 if needed)
+* [mySql](https://www.codecademy.com/learn/learn-sql)
+* [php](https://www.codecademy.com/learn/learn-php)
+* [node.js](https://www.freecodecamp.org/)
+* [bash (linux)](https://www.datacamp.com) 
 
 #### Frontend languages:
 * [Html/css/javascript](https://www.codecademy.com)
 * [React](https://www.codecademy.com/learn/react-101)
 * [Frontend Course](https://www.freecodecamp.org/)
+
+Just remember that this is limited, when you actually start working in development you will have to learn new things constantly. But this is a good start.
 
