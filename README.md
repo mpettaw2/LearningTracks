@@ -6,8 +6,8 @@ Below is the Programmer's track. This should take about 6 months to a year. It's
 
 ### Math
 * [Pre-Algebra](https://www.khanacademy.org)
-* [Algebra I](www.khanacademy.org)
-* [Algebra II](www.khanacademy.org)
+* [Algebra I](https://www.khanacademy.org)
+* [Algebra II](https://www.khanacademy.org)
 * [Discrete Mathmatics](https://www.youtube.com/watch?v=A3Ffwsnad0k&list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
 
 ### Theory
